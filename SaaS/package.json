@@ -1,0 +1,10 @@
+{
+    "name": "saas",
+    "version": "1.0.0",
+    "devDependencies": {
+        "grunt": "^1.6.1",
+        "grunt-contrib-watch": "^1.1.0",
+        "grunt-sass": "^4.0.0",
+        "sass": "^1.89.2"
+    }
+}

@@ -1,0 +1,29 @@
+# Ignore virtual environment directories
+Lib/
+Scripts/
+
+# Ignore pyvenv configuration file
+pyvenv.cfg
+
+# Ignore pycache and bytecode files
+__pycache__/
+*.pyc
+
+# Ignore database file (if using SQLite)
+db.sqlite3
+
+# Ignore Django migrations (optional, can be added back later)
+*/migrations/
+
+# Ignore IDE or editor-specific files (optional, can be added if you're using an IDE)
+.vscode/
+.idea/
+
+# Ignore environment variables files (if you use .env for secret keys)
+.env
+
+# Ignore CACHEDIR.TAG
+CACHEDIR.TAG
+
+# Ignore node_modules
+SaaS/node_modules/
